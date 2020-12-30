@@ -18,5 +18,5 @@ public class DeadCell extends Cell {
     }
 
     @Override
-    public int toInt() { return 0; };
+    public int toInt() { return 0; }
 }

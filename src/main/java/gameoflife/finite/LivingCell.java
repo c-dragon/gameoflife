@@ -24,5 +24,5 @@ public class LivingCell extends Cell {
     }
 
     @Override
-    public int toInt() { return 1; };
+    public int toInt() { return 1; }
 }
